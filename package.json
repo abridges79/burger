@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/abridges79/burger/issues"
   },
-  "homepage": "https://github.com/abridges79/burger#readme"
+  "homepage": "https://github.com/abridges79/burger#readme",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
 }
